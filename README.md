@@ -1,3 +1,3 @@
-#Primer objeto subido.
+Primer objeto subido.
 
 agregamos read me....
