@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prueba Tecnica
 
 ### que se uso?
