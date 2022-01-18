@@ -20,6 +20,7 @@ app.get('/', (req, res )=>{
 app.use(require('./router/estudiantes'))
 app.use(require('./router/maestros'))
 app.use(require('./router/cursos'))
+app.use(require('./router/asignacion'))
 
 app.listen(port, host, ()=>{
     console.log('Servidor Iniciado!!')
