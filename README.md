@@ -8,7 +8,7 @@ Se uso react y nodejs, para el frontend y backend respectivamente, por la comodi
 
 ### toDo
 
-- CRUD estudiantes
+- __CRUD estudiantes__
 - CRUD catedraticos
 - CRUD Cursos
 - Asignacion cursos
