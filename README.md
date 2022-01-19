@@ -17,8 +17,8 @@ Se uso react y nodejs, para el frontend y backend respectivamente, por la comodi
 ## FrontEnd
 
 - ~~Estudiantes~~
-- Catedraticos
-- Cursos
+- Catedraticos (Solo vista)
+- Cursos (Solo vista)
 - asignaciones
 
 
