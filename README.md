@@ -16,7 +16,12 @@ Se uso react y nodejs, para el frontend y backend respectivamente, por la comodi
 
 ## FrontEnd
 
-- Estudiantes
+- ~~Estudiantes~~
 - Catedraticos
 - Cursos
 - asignaciones
+
+
+## Notas
+
+Por tiempo, ya que tuve que resolver unos problemas de logica, no pude hacer todas las funciones del backend, pero estas eran iguales a la de estudiantes solo que manejando distintos datos.
