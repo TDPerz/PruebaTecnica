@@ -97,7 +97,7 @@ function Estudiantes(){
 	const columns = [
 		{ title: 'id', dataIndex: 'id', key: 'id' },
 		{ title: 'nombre', dataIndex: 'nombre', key: 'nombre' },
-		{ title: 'telefono', dataIndex: 'age', key: 'age' },
+		{ title: 'telefono', dataIndex: 'telefono', key: 'telefono' },
 		{ title: 'correo', dataIndex: 'correo', key: 'correo' },
 		{
 		  title: 'Action',
